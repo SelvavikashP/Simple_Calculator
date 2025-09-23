@@ -1,0 +1,53 @@
+/* css file */
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+header {
+    background-color: #35424a;
+    color: #ffffff;
+    padding: 10px 0;
+    text-align: center;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}               
+nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+nav ul li a:hover {
+    text-decoration: underline;
+}
+footer {
+    background-color: #35424a;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+footer ul {
+    list-style: none;
+    padding: 0;
+}
+footer ul li {
+    display: inline;
+    margin: 0 15px;
+}
+footer ul li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+footer ul li a:hover {
+    text-decoration: underline;
+}
